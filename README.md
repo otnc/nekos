@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/nekos.svg)](https://badge.fury.io/js/nekos)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Validate AA Contribution](https://github.com/otoneko1102/nekos/actions/workflows/validate-aa.yml/badge.svg)](https://github.com/otoneko1102/nekos/actions/workflows/validate-aa.yml)
+[![Validate AA Contribution](https://github.com/otnc/nekos/actions/workflows/validate-aa.yml/badge.svg)](https://github.com/otnc/nekos/actions/workflows/validate-aa.yml)
 
 <a href="https://www.buymeacoffee.com/devuloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -126,4 +126,4 @@ Contributions are welcome! Please see the [Contributing Guidelines](CONTRIBUTING
 
 # Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=otoneko1102/nekos)](https://github.com/otoneko1102/nekos/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=otoneko1102/nekos)](https://github.com/otnc/nekos/graphs/contributors)
